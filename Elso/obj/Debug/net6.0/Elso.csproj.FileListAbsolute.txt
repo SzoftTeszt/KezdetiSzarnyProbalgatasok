@@ -1,0 +1,14 @@
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\bin\Debug\net6.0\Elso.exe
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\bin\Debug\net6.0\Elso.deps.json
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\bin\Debug\net6.0\Elso.runtimeconfig.json
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\bin\Debug\net6.0\Elso.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\bin\Debug\net6.0\Elso.pdb
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.AssemblyInfoInputs.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.AssemblyInfo.cs
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\refint\Elso.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.pdb
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\Elso.genruntimeconfig.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Elso\obj\Debug\net6.0\ref\Elso.dll

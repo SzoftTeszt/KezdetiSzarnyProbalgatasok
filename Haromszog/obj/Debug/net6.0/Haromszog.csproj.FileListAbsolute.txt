@@ -1,0 +1,14 @@
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\bin\Debug\net6.0\Haromszog.exe
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\bin\Debug\net6.0\Haromszog.deps.json
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\bin\Debug\net6.0\Haromszog.runtimeconfig.json
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\bin\Debug\net6.0\Haromszog.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\bin\Debug\net6.0\Haromszog.pdb
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.AssemblyInfoInputs.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.AssemblyInfo.cs
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\refint\Haromszog.dll
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.pdb
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\Haromszog.genruntimeconfig.cache
+C:\Users\Tanar\source\repos\ElsoSolution\Haromszog\obj\Debug\net6.0\ref\Haromszog.dll

@@ -1,0 +1,34 @@
+Program Hszog
+	szam a,b,c
+	Be: a,b,c
+	
+	Ha ( (a+b>c) && (a+c>b) && (b+c>a) )
+		Ki: "A háromszög nagyon is megszerkeszthető!"
+		// Derékszögű-e
+		
+		szam atfogo, bef1, bef2
+		
+		Ha ((a>b) && (a>c)) 
+			atfogo=a
+			bef1=b
+			bef2=c
+		
+		Ha ((b>a) && (b>c)) 
+				atfogo=b
+				bef1=a
+				bef2=c
+					
+			Ha ((c>b) && (c>a)) 
+			atfogo=c
+			bef1=a
+			bef2=b
+		
+		Ha (atfogo^2==bef1^2+bef2^2) Ki: "A háromszöh derékszögű!
+		
+	Elágazás vége
+	Ellenben 
+		Ki:"Nem az!"
+	Ellenben Vége
+
+	
+Program vége

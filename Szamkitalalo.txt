@@ -1,0 +1,20 @@
+
+Program SzamKitalalo
+karakter betu
+Ciklus kezdődik
+	szam = Véletlen(1,100)	
+	szam proba=0
+	szam tipp=0	
+	Ciklus indul
+		Ki: "Írd be a tipped:"
+		Be: tipp
+		proba++
+		Ha (tipp<szam) Ki:"A tipped túl kicsi!"
+		ellenben Ha (tipp>szam) Ki:"A tipped túl nagy!"		
+	Ciklus vége, fut ha (szam != tipp && proba<5)	
+	Ha (szam==tipp) Ki:"Kitaláltad!!! Te egy zseni vagy!"
+	ellenben Ki:"Szerintem szellemi fogyatékos lehetsz!"	
+	Ki:"Szeretnél még egyet jácccani? (i/n)"
+	Be: betu
+Ciklus vége, fut ha (betu=='i')	
+Program Vége
